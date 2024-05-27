@@ -655,6 +655,11 @@
    font-size: 18px;
 }
 
+
+/* responsive-salt-n-pepper-media querry */
+
+
+
 @media screen and (max-width:1200px){
     .vill-main-cont{
         flex-direction: column;
